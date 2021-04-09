@@ -7,7 +7,7 @@ const Tabs = (topics) => {
   const topic3 = document.createElement("div");
   const topic4 = document.createElement("div");
   const topic5 = document.createElement("div");
-
+  
   headerDiv.classList.add("topics");
   topic1.classList.add("tab");
   topic2.classList.add("tab");

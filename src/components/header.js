@@ -15,7 +15,7 @@ const Header = (title, date, temp) => {
   mainDiv.appendChild(headerTitle);
   mainDiv.appendChild(span2);
 
-  console.log(mainDiv)
+  // console.log(mainDiv)
 
   return mainDiv;
 
